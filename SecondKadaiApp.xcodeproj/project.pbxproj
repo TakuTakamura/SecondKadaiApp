@@ -12,6 +12,7 @@
 		A65359B1234981320050D7F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A65359AF234981320050D7F4 /* Main.storyboard */; };
 		A65359B3234981360050D7F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A65359B2234981360050D7F4 /* Assets.xcassets */; };
 		A65359B6234981360050D7F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A65359B4234981360050D7F4 /* LaunchScreen.storyboard */; };
+		A65359BE234985170050D7F4 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A65359BD234985170050D7F4 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A65359B2234981360050D7F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A65359B5234981360050D7F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A65359B7234981370050D7F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A65359BD234985170050D7F4 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				A65359B2234981360050D7F4 /* Assets.xcassets */,
 				A65359B4234981360050D7F4 /* LaunchScreen.storyboard */,
 				A65359B7234981370050D7F4 /* Info.plist */,
+				A65359BD234985170050D7F4 /* SecondViewController.swift */,
 			);
 			path = SecondKadaiApp;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A65359BE234985170050D7F4 /* SecondViewController.swift in Sources */,
 				A65359AE234981320050D7F4 /* ViewController.swift in Sources */,
 				A65359AC234981320050D7F4 /* AppDelegate.swift in Sources */,
 			);
